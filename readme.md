@@ -26,14 +26,12 @@
 
 <br />
 
----
-
-<details>
+<!-- <details>
   <summary>GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=clicknow&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [website]: https://ClickNow.my.id
 [instagram]: https://www.instagram.com/chael_404/
