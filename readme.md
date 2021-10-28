@@ -14,11 +14,9 @@
     <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/Terminal-000000.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-  
-  <br />
-  <br />
-  You Can Connect Me With:
 
+  You Can Connect Me With:
+  <br>
   <a href="mailto:joedhitya@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
