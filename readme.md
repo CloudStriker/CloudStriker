@@ -3,7 +3,7 @@
 ## I'm an Cloud Enthusiast!!
 
 - 🌱 I’m currently learning about Japanese Language & Cloud Infrastructure
-- 🥅 2021 Goals: Translate more & Getting good at Cloud Thing
+- 🥅 2021 Goals: Translate more, Getting good at Cloud & DevOps
 - ⚡ Fun fact: I love to translate anime
 
 ### Connect with me:
