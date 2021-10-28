@@ -1,4 +1,4 @@
-### Hi there, I'm Michael Joedhitya - aka [ClickNow][website] 👋
+### Hi there, I'm Michael Joedhitya aka [ClickNow][website] 👋
 
 ## I'm an Cloud Enthusiast!!
 
