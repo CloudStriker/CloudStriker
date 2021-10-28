@@ -2,7 +2,7 @@
   
 ### Hi there, I'm Michael Joedhitya aka ClickNow 👋
 
-  I'm an Cloud Enthusiast!!
+  I'm a Cloud Enthusiast!!
 
  🌱 Currently learning about Japanese Language & Cloud Infrastructure 
   <br />
