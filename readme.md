@@ -26,9 +26,6 @@
   <a href="https://line.me/ti/p/~joedhitya" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/line-%2300C300?&style=for-the-badge&logo=line&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/chael_404" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/instagram-%23E42104?&style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 
 <br />
 
