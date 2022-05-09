@@ -26,9 +26,6 @@
   <a href="https://line.me/ti/p/~joedhitya" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/line-%2300C300?&style=for-the-badge&logo=line&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/973087699143647262" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/discord-%23738ADB?&style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
 <br />
 
 
