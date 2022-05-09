@@ -6,7 +6,7 @@
 
  🌱 Currently learning about Japanese Language, Cloud Infrastructure & Flutter
   <br />
- ⚡ Fun fact: I am a translator
+ ⚡ Fun fact: I am a lazy translator
   <br />
   <br />
     <img src="https://img.shields.io/badge/html%20-%23F06529.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
