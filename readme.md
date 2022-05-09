@@ -4,7 +4,7 @@
 
   I'm a Cloud Enthusiast!!
 
- 🌱 Currently learning about Japanese Language & Cloud Infrastructure 
+ 🌱 Currently learning about Japanese Language, Cloud Infrastructure & Flutter
   <br />
  ⚡ Fun fact: I am a translator
   <br />
