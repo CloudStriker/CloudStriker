@@ -4,7 +4,7 @@
 
   I'm a Cloud Enthusiast!!
 
- 🌱 Currently learning about Japanese Language, Cloud Infrastructure & Sripting
+ 🌱 Currently learning about Japanese Language, Cloud Infrastructure & Scripting
   <br />
  ⚡ Fun fact: When I stuck with code I usually getting my mind clear with translating japanese video
   <br />
