@@ -23,9 +23,6 @@
   <a href="https://www.linkedin.com/in/michael-joedhitya/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-%23006192?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://line.me/ti/p/~joedhitya" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/line-%2300C300?&style=for-the-badge&logo=line&logoColor=white"/>
-  </a>
 <br />
 
 
